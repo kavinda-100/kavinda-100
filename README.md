@@ -30,9 +30,9 @@
 [![Cloud](https://skillicons.dev/icons?i=vitest,jest&perline=10)](https://skillicons.dev)
 
 
-<div align="center">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavinda-100&layout=compact&&border_radius=10&theme=algolia&hide_border=true"/></p>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kavinda-100&show_icons=true&border_radius=10&theme=algolia&hide_border=true"/> </p>
+<div>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavinda-100&layout=compact&&border_radius=10&theme=dark&hide_border=false"/></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kavinda-100&show_icons=true&border_radius=10&theme=dark&hide_border=false"/> </p>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kavinda-100&theme=dark" alt="GitHub Streak" /></a>
 </div>
 
