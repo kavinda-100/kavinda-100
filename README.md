@@ -6,8 +6,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavinda-100&label=Profile%20views&color=0e75b6&style=flat" alt="kavinda-100" /> </p>
 
-- 🌱 I’m currently learning **Next JS, React, Node JS, Bun JS, Express JS, React Native, Typescript and C#**
+🚀 Aspiring Full-Stack Developer | Passionate About Next.js & ASP.NET Web API
 
+Hey there! I'm a university student deeply passionate about the tech world, especially full-stack web development. I love building scalable, high-performance applications using Next.js and ASP.NET Web API.
+
+- 💡 Always eager to learn, experiment, and push the boundaries of web development.
+
+- 💻 Currently honing my skills and working on exciting projects.
+  
 - 👨‍💻 All of my projects are available at [https://github.com/kavinda-100](https://github.com/kavinda-100)
 
 - 💬 Ask me about **React, Next JS, TypeScript and C#**
