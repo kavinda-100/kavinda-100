@@ -38,10 +38,15 @@ Hey there! I'm a university student deeply passionate about the tech world, espe
 ### Tasting Tools
 [![Cloud](https://skillicons.dev/icons?i=vitest,jest&perline=10)](https://skillicons.dev)
 
+### Stats
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kavinda-100&show_icons=true&theme=midnight-purple)
+</br>
+</br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavinda-100&size_weight=0.5&count_weight=0.5&theme=midnight-purple)
 <div>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavinda-100&layout=compact&&border_radius=10&theme=midnight-purple&hide_border=false"/></p>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kavinda-100&show_icons=true&border_radius=10&theme=midnight-purple&hide_border=false"/> </p>
+<!--   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavinda-100&layout=compact&&border_radius=10&theme=midnight-purple&hide_border=false"/></p> -->
+<!--   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kavinda-100&show_icons=true&border_radius=10&theme=midnight-purple&hide_border=false"/> </p> -->
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kavinda-100&theme=dark" alt="GitHub Streak" /></a>
 </div>
 
