@@ -1,36 +1,81 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="full">
 <br><br>
 
-<h1 align="center">Hi 👋, I'm Kavinda Rathnayake</h1>
-<h3 align="center">A passionate full Stack web developer from sri lanka.</h3>
+<h1 align="center">Hey 👋, I'm Kavinda Rathnayake</h1>
+<h3 align="center">Full-Stack Web3 Developer | Solidity Enthusiast | Building on Ethereum</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kavinda-100&label=Profile%20views&color=0e75b6&style=flat" alt="kavinda-100" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kavinda-100&label=Profile%20views&color=0e75b6&style=flat" alt="kavinda-100" />
+</p>
 
-🚀 Aspiring Full-Stack Developer | Passionate About Next.js & ASP.NET Web API
+---
 
-Hey there! I'm a university student deeply passionate about the tech world, especially full-stack web development. I love building scalable, high-performance applications using Next.js and ASP.NET Web API.
+🚀 **Aspiring Full-Stack Web3 Developer**  
+I’m a university student and passionate developer from Sri Lanka who recently transitioned from full-stack web development to full-stack Web3/blockchain development. I enjoy building secure, scalable applications on the web and blockchain using modern tools and best practices.
 
-- 💡 Always eager to learn, experiment, and push the boundaries of web development.
+---
 
-- 💻 Currently honing my skills and working on exciting projects.
-  
-- 👨‍💻 All of my projects are available at [https://github.com/kavinda-100](https://github.com/kavinda-100)
+### 💻 Tech Stack
 
-- 💬 Ask me about **React, Next JS, TypeScript and C#**
+**Web Development**
+- JavaScript / TypeScript
+- React / Next.js
+- Tailwind CSS / Shadcn UI
+- Node.js / Express.js
+- PostgreSQL / MongoDB
+- Prisma ORM / Drizzle ORM
+- Stripe (Payments)
+- Kinde / Clerk (Auth)
 
-- 📫 How to reach me **kavindarathnayake100@gmail.com**
+**Blockchain Development**
+- Solidity (Smart Contracts)
+- Foundry / Hardhat (Testing & Deployment)
+- Chainlink (VRF & Oracles)
+- ERC20 / ERC721 Standards
+
+**Additionally**
+- C#
+
+---
+
+### 📚 Learning Journey
+- ✅ Completed **Blockchain Basics**, **Solidity 101** & **Foundry 101** on [Updraft by Cyfrin](https://updraft.cyfrin.io)
+- 🔄 Currently enrolling in **Advance Foundry with Solidity**
+- 🔜 Planning to take **Full-Stack Web3 Development** course (Cyfrin)
+- 🔮 Will dive into **Hardhat** for smart contract development
+
+---
+
+### 💬 Ask Me About
+- Full-Stack Web3 Development
+- React / Next.js / Node.js / Express.js
+- Solidity & Smart Contracts
+
+---
+
+### 📫 Let's Connect
+
+- 🧑‍💻 GitHub: [@kavinda-100](https://github.com/kavinda-100)
+- 💼 LinkedIn: [linkedin.com/in/kavinda-rathnayake](linkedin.com/in/kavinda-rathnayake-5503aa365)
+- 🐦 X/Twitter: [@kavinda_dev](https://x.com/kavinda_dev)
+
+---
+
+⭐️ **Fun Fact**: I build with performance, security, and scalability in mind — whether it's Web2 or Web3.
+
+### 📫 How to reach me **kavindarathnayake100@gmail.com**
 
 ## My Favorite,
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,cs,bash&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,solidity,cs&perline=10)](https://skillicons.dev)
 ### Frame works
-[![Frame works](https://skillicons.dev/icons?i=nextjs,react,express,vite,electron&perline=10)](https://skillicons.dev)
+[![Frame works](https://skillicons.dev/icons?i=nextjs,react,express,vite&perline=10)](https://skillicons.dev)
 ### IDEs
-[![My IDE](https://skillicons.dev/icons?i=webstorm,rider,vscode,visualstudio,androidstudio&perline=10)](https://skillicons.dev)
+[![My IDE](https://skillicons.dev/icons?i=webstorm,rider,vscode,visualstudio&perline=10)](https://skillicons.dev)
 ### Run Times
 [![Run Times](https://skillicons.dev/icons?i=nodejs,bun,dotnet&perline=10)](https://skillicons.dev)
 ### Databases 
-[![Run Times](https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase&perline=10)](https://skillicons.dev)
+[![Run Times](https://skillicons.dev/icons?i=mongodb,postgres&perline=10)](https://skillicons.dev)
 ### Cloud service 
 [![Cloud](https://skillicons.dev/icons?i=azure&perline=10)](https://skillicons.dev)
 ### Design Tools
