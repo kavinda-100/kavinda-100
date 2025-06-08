@@ -35,6 +35,8 @@ I’m a university student and passionate developer from Sri Lanka who recently 
 
 **Additionally**
 - C#
+- Docker
+- git
 
 ---
 
