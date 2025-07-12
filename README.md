@@ -10,17 +10,27 @@
 
 ---
 
-🚀 **Aspiring Full-Stack Web3 Developer**  
-I’m a university student and passionate developer from Sri Lanka who recently transitioned from full-stack web development to full-stack Web3/blockchain development. I enjoy building secure, scalable applications on the web and blockchain using modern tools and best practices.
+🚀 **Full-Stack Web3 Developer | Solidity, Rust, TypeScript**  
+
+I'm a Full-Stack Developer with a strong foundation in Web2 technologies and a deep focus on Web3 and blockchain development. My tech stack includes TypeScript, React, Next.js, Node.js, Express, PostgreSQL, and MongoDB for full-stack applications, along with Tailwind CSS for modern UI development.
+
+In the Web3 space, I specialize in smart contract development using Solidity, with experience in tools like Foundry, Hardhat, and Wagmi. I'm passionate about building secure, production-grade decentralized applications and contributing to the future of the decentralized web.
+
+I'm also learning Rust and exploring Solana development to broaden my blockchain expertise and stay at the forefront of Web3 innovation.
+
+I'm actively building projects, expanding my skill set, and looking to collaborate with teams pushing the boundaries of blockchain technology.
+
+📬 Let’s connect and build the future together.
 
 ---
 
 ### 💻 Tech Stack
 
+
 **Web Development**
 - JavaScript / TypeScript
 - React / Next.js
-- Tailwind CSS / Shadcn UI
+- Tailwind CSS
 - Node.js / Express.js
 - PostgreSQL / MongoDB
 - Prisma ORM / Drizzle ORM
@@ -34,17 +44,10 @@ I’m a university student and passionate developer from Sri Lanka who recently 
 - ERC20 / ERC721 Standards
 
 **Additionally**
+- Rust
 - C#
 - Docker
 - git
-
----
-
-### 📚 Learning Journey
-- ✅ Completed **Blockchain Basics**, **Solidity 101** & **Foundry 101** on [Updraft by Cyfrin](https://updraft.cyfrin.io)
-- 🔄 Currently enrolling in **Advance Foundry with Solidity**
-- 🔜 Planning to take **Full-Stack Web3 Development** course (Cyfrin)
-- 🔮 Will dive into **Hardhat** for smart contract development
 
 ---
 
@@ -52,6 +55,7 @@ I’m a university student and passionate developer from Sri Lanka who recently 
 - Full-Stack Web3 Development
 - React / Next.js / Node.js / Express.js
 - Solidity & Smart Contracts
+- Rust
 
 ---
 
@@ -65,7 +69,7 @@ I’m a university student and passionate developer from Sri Lanka who recently 
 
 ⭐️ **Fun Fact**: I build with performance, security, and scalability in mind — whether it's Web2 or Web3.
 
-### 📫 How to reach me **kavindarathnayake100@gmail.com**
+#### 📫 How to reach me **kavindarathnayake100@gmail.com**
 
 ## My Favorite,
 ### Languages
