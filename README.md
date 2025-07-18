@@ -73,11 +73,11 @@ I'm actively building projects, expanding my skill set, and looking to collabora
 
 ## My Favorite,
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=js,ts,solidity,cs&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,solidity,rust,cs&perline=10)](https://skillicons.dev)
 ### Frame works
 [![Frame works](https://skillicons.dev/icons?i=nextjs,react,express,vite&perline=10)](https://skillicons.dev)
 ### IDEs
-[![My IDE](https://skillicons.dev/icons?i=webstorm,rider,vscode,visualstudio&perline=10)](https://skillicons.dev)
+[![My IDE](https://skillicons.dev/icons?i=vscode,webstorm,rider,visualstudio&perline=10)](https://skillicons.dev)
 ### Run Times
 [![Run Times](https://skillicons.dev/icons?i=nodejs,bun,dotnet&perline=10)](https://skillicons.dev)
 ### Databases 
