@@ -14,11 +14,11 @@
 
 I'm a Full-Stack Developer with a strong foundation in Web2 technologies and a deep focus on Web3 and blockchain development. My tech stack includes TypeScript, React, Next.js, Node.js, Express, PostgreSQL, and MongoDB for full-stack applications, along with Tailwind CSS for modern UI development.
 
-In the Web3 space, I specialize in smart contract development using Solidity, with experience in tools like Foundry, Hardhat, and Wagmi. I'm passionate about building secure, production-grade decentralized applications and contributing to the future of the decentralized web.
+In the Web3 space, I specialize in smart contract development using Solidity, with experience in tools like Foundry and Wagmi. I'm passionate about building secure, production-grade decentralized applications and contributing to the future of the decentralized web.
 
 I'm also learning Rust and exploring Solana development to broaden my blockchain expertise and stay at the forefront of Web3 innovation.
 
-I'm actively building projects, expanding my skill set, and looking to collaborate with teams pushing the boundaries of blockchain technology.
+I'm actively building projects, expanding my skill set, and seeking to collaborate with teams that push the boundaries of blockchain technology.
 
 📬 Let’s connect and build the future together.
 
@@ -39,7 +39,7 @@ I'm actively building projects, expanding my skill set, and looking to collabora
 
 **Blockchain Development**
 - Solidity (Smart Contracts)
-- Foundry / Hardhat (Testing & Deployment)
+- Foundry (Testing & Deployment)
 - Chainlink (VRF & Oracles)
 - ERC20 / ERC721 Standards
 
@@ -74,7 +74,7 @@ I'm actively building projects, expanding my skill set, and looking to collabora
 ## My Favorite,
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=js,ts,solidity,rust,cs&perline=10)](https://skillicons.dev)
-### Frame works
+### Frameworks
 [![Frame works](https://skillicons.dev/icons?i=nextjs,react,express,vite&perline=10)](https://skillicons.dev)
 ### IDEs
 [![My IDE](https://skillicons.dev/icons?i=vscode,webstorm,rider,visualstudio&perline=10)](https://skillicons.dev)
@@ -83,6 +83,7 @@ I'm actively building projects, expanding my skill set, and looking to collabora
 ### Databases 
 [![Run Times](https://skillicons.dev/icons?i=mongodb,postgres&perline=10)](https://skillicons.dev)
 ### Cloud service 
+
 [![Cloud](https://skillicons.dev/icons?i=azure&perline=10)](https://skillicons.dev)
 ### Design Tools
 [![Cloud](https://skillicons.dev/icons?i=figma&perline=10)](https://skillicons.dev)
