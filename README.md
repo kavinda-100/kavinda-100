@@ -74,11 +74,6 @@ You can explore both my **Web2** and **Web3 projects** in my portfolio, each bui
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavinda-100&show_icons=true&theme=midnight-purple" height="165" />
-  <img src="https://streak-stats.demolab.com?user=kavinda-100&theme=midnight-purple" height="165" />
-</p>
-
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/kavinda-100?cardType=level&fontFamily=42dot%20Sans&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ---
