@@ -50,6 +50,7 @@ My background in **Web3** allows me to integrate decentralized components seamle
 
 🔹 [**Alloy CLI**](https://github.com/kavinda-100/Alloy) — A high-performance CLI tool built in **Rust** to automate smart contract ABI to TypeScript type generation.  
 🔹 [**RustAutomator**](https://github.com/kavinda-100/rustautomator) — RustAutomator is a productivity-first VS Code extension designed to eliminate the repetitive manual work of managing Rust module structures. 
+
 🔹 [**CrowdFunding DApp**](https://github.com/kavinda-100/crowdfunding-dapp) — A decentralized crowdfunding platform built on Ethereum using Solidity + Next.js.
 
 > Explore more on my portfolio: [**kavinda.dev**](https://kavinda-rathnayake-portfolio.vercel.app)
