@@ -51,7 +51,7 @@ I specialize in **Next.js** and **React Native** for client-side architectures, 
 ## 💬 Let's Connect
 
 - 💼 **LinkedIn:** [linkedin.com/in/kavinda-rathnayake](https://linkedin.com/in/kavinda-rathnayake)
-- 🌐 **Portfolio:** [kavinda.dev](https://kavinda-rathnayake-portfolio.vercel.app/)
+- 🌐 **Portfolio:** [kavinda.dev](https://kavindarathnayeke.vercel.app)
 - 🐦 **Twitter/X:** [@kavinda_dev](https://x.com/kavinda_dev)
 - 📧 **Email:** [kavindarathnayake100@gmail.com](mailto:kavindarathnayake100@gmail.com)
 
