@@ -13,11 +13,11 @@
 
 ## 🧑‍💻 About Me
 
-I’m **Kavinda Rathnayake**, a **Full-Stack Developer** focused on building high-performance, scalable applications across web, mobile, and desktop platforms. I engineer with a "performance-first" mindset, leveraging **TypeScript** and **Rust** to architect robust systems from the ground up.
+I’m **Kavinda Rathnayake**, a **Full-Stack Developer** focused on building high-performance, scalable applications across web, mobile, and desktop platforms. I engineer with a "performance-first" mindset, leveraging **TypeScript**, **Java**, and **Rust** to architect robust systems from the ground up.
 
-I specialize in **Next.js** and **React Native** for client-side architectures, paired with high-throughput backend services and utility tooling using **Node.js/Bun** and **Rust (Axum)**. I love solving complex architectural problems like multi-tenant isolation, real-time cache synchronization, and event-driven microservices.
+I specialize in **TanStack Start**, **Next.js**, and **React Native** for client-side architectures, paired with high-throughput backend services using **Node.js/Express.js** and **Spring Boot/Java**, and utility tooling using **Rust**. I love solving complex architectural problems like multi-tenant isolation, real-time cache synchronization, and event-driven microservices.
 
-> Explore my full portfolio at [**kavinda.dev**](https://kavinda-rathnayake-portfolio.vercel.app)
+> Explore my full portfolio at [**kavinda.dev**](https://kavindarathnayeke.vercel.app)
 
 ---
 
@@ -25,9 +25,9 @@ I specialize in **Next.js** and **React Native** for client-side architectures, 
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | TypeScript, Rust, JavaScript, SQL |
+| **Languages** | TypeScript, Rust, JavaScript, Java, SQL |
 | **Frontend & Mobile** | React, Next.js, Tailwind CSS, React Native, Expo, Tauri |
-| **Backend & Infrastructure** | Node.js, Bun, Express, Axum (Rust), Apache Kafka, Docker, GitHub Actions |
+| **Backend & Infrastructure** | Node.js, Bun, Express, Axum (Rust), Spring Boot (Java), Apache Kafka, Docker, GitHub Actions |
 | **Databases & ORMs** | PostgreSQL, Redis, MongoDB, Prisma, Drizzle, sqlx (Rust) |
 | **Tools & Frameworks** | Monorepos (pnpm Workspaces), Zod, REST APIs, WebSockets, TUIs (`inquire`) |
 
