@@ -30,6 +30,7 @@ I specialize in **TanStack Start**, **Next.js**, and **React Native** for client
 | **Backend & Infrastructure** | Node.js, Bun, Express, Axum (Rust), Spring Boot (Java), Apache Kafka, Docker, GitHub Actions |
 | **Databases & ORMs** | PostgreSQL, Redis, MongoDB, Prisma, Drizzle, sqlx (Rust) |
 | **Tools & Frameworks** | Monorepos (pnpm Workspaces), Zod, REST APIs, WebSockets, TUIs (`inquire`) |
+| **AI** | Codex, GitHub Copilot, JetBrains Junie |
 
 ---
 
